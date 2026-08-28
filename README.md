@@ -47,8 +47,3 @@
     - `train_pose_classifier.py` → Training script for pose classifier.
     ---
     ---
-## Features
-- Real-time yoga pose detection with MediaPipe.
-- Angle-based landmark extraction for robust classification.
-- Modular training and prediction scripts.
-- Pre-trained models included for quick testing.
