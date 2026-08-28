@@ -74,3 +74,10 @@
     - `train_pose_classifier.py` → Training script for pose classifier.
     ---
     ---
+<img width="1486" height="1053" alt="Screenshot 2025-08-17 162658" src="https://github.com/user-attachments/assets/fe13e172-8b51-466a-85ac-69e1aadebd6f" />
+<img width="1523" height="1096" alt="Screenshot 2025-08-17 162810" src="https://github.com/user-attachments/assets/facf386f-87f0-4489-9894-33d9425e9855" />
+<img width="2434" height="843" alt="Screenshot 2025-08-17 163446" src="https://github.com/user-attachments/assets/10660c4b-1d64-4a0e-8571-404415709e82" />
+<img width="1832" height="1059" alt="Screenshot 2025-08-17 222627" src="https://github.com/user-attachments/assets/ab11636a-1aa8-4564-b1ff-bf78aaf8d613" />
+<img width="2620" height="1452" alt="Screenshot 2025-08-17 225125" src="https://github.com/user-attachments/assets/e67c6518-fd23-41c1-96a3-aa7ce9c66bf2" />
+
+
