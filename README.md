@@ -1,10 +1,23 @@
-# 🧘 YogaPoseClassifier
+#  YogaPoseClassifier
 
 **YogaPoseClassifier is a machine learning project built with **MediaPipe** and Python to classify yoga poses using landmark extraction and angle-based features**
 
 ---
+##  Features
+- Real-time yoga pose detection with **MediaPipe**  
+- Angle-based landmark extraction for robust classification  
+- Modular training and prediction scripts for flexibility  
+- Pre-trained models included for quick testing  
+
 ---
-## 📂 Project Structure
+
+##  Tech Stack
+- **Python 3.x**  
+- **MediaPipe**  
+- **Scikit-learn**  
+- **OpenCV**
+---
+##  Project Structure
 
 - **data/**  
   - Stores raw yoga pose data.
@@ -34,3 +47,8 @@
     - `train_pose_classifier.py` → Training script for pose classifier.
     ---
     ---
+## Features
+Real-time yoga pose detection with MediaPipe.
+Angle-based landmark extraction for robust classification.
+Modular training and prediction scripts.
+Pre-trained models included for quick testing.
