@@ -11,11 +11,38 @@
 
 ---
 
-##  Tech Stack
-- **Python 3.x**  
-- **MediaPipe**  
-- **Scikit-learn**  
-- **OpenCV**
+## 📊 Tech Stack
+
+- **Programming Language**
+  - Python
+
+- **Computer Vision**
+  - OpenCV (`cv2`)
+  - MediaPipe (`mediapipe`)
+
+- **Machine Learning**
+  - Scikit-learn (`RandomForestClassifier`, `train_test_split`, `classification_report`)
+  - Joblib (`joblib`) for model persistence
+  - Pickle (`pickle`) for saving/loading models
+
+- **Data Handling**
+  - NumPy (`numpy`)
+  - Pandas (`pandas`)
+  - CSV (`csv`)
+
+- **Utilities**
+  - OS (`os`) for file handling
+  - Time (`time`) for performance measurement
+  - Custom utilities (`pose_utils.calculateAngle`)
+
+---
+
+## 🧩 Features
+- Real-time yoga pose detection with **MediaPipe**  
+- Angle-based landmark extraction for robust classification  
+- Modular training and prediction scripts  
+- Pre-trained models included for quick testing  
+
 ---
 ##  Project Structure
 
