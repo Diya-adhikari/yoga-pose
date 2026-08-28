@@ -48,7 +48,7 @@
     ---
     ---
 ## Features
-Real-time yoga pose detection with MediaPipe.
-Angle-based landmark extraction for robust classification.
-Modular training and prediction scripts.
-Pre-trained models included for quick testing.
+- Real-time yoga pose detection with MediaPipe.
+- Angle-based landmark extraction for robust classification.
+- Modular training and prediction scripts.
+- Pre-trained models included for quick testing.
